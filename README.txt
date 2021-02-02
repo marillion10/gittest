@@ -1,1 +1,1 @@
-Detta är vår första GIT fil. Skriver något nytt. Extra för att committa.
+Detta är vår första GIT fil. Skriver något nytt.
